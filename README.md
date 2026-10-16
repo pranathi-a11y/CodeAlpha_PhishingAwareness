@@ -1,5 +1,7 @@
 # PhishGuard — Phishing Awareness Training
 
+**Live website:** https://phishguard-codealpha.vercel.app/
+
 PhishGuard is an offline-friendly, responsive educational website created as a cybersecurity internship project. It teaches people to recognise phishing indicators, verify unexpected requests safely, and respond proportionately to suspected incidents. It is an independent educational project, not an official CodeAlpha product or security service.
 
 ## Features mapped to the CodeAlpha task
